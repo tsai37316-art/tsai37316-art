@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tsai!
+# 👋 Hi, I'm sai Teja Reddy YS
 
 ### 💻 Software Developer | AI & Full-Stack Enthusiast
 
