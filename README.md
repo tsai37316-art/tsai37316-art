@@ -84,7 +84,7 @@ A full-stack e-commerce project focused on building an online shopping platform 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 💼 LinkedIn: https://www.linkedin.com/in/sai-teja-reddy-y-s-7507b1440Add your LinkedIn profile here
 - 🐙 GitHub: https://github.com/tsai37316-art
 
 ---
